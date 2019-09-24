@@ -11,7 +11,7 @@ public class Main {
 	}
 	private static void displayGreeting(){
 		System.out.println("Static Function display");
-		System.out.println("Displaying static function");
+		System.out.println("Displaying static  function");
 	}
 
 }
